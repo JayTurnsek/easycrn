@@ -1,7 +1,7 @@
 # EasyCRN
 
 ## DEMO
-The link to a working demo is [here](https://easycrn.netlify.app/)
+The link to a working demo is [here](https://easycrn.netlify.app/).
 
 A project for course selection for StFX students. 
 
